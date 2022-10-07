@@ -59,7 +59,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-include: ['_catalog']  # '_pages', 
+include: ['_pages', '_catalog']
 
 paginate: 6
 paginate_path: /page:num/
